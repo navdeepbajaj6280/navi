@@ -2,4 +2,4 @@
 
 this is my first git repository
 <br>
-author - navdeep bajaj
+author - navdeep (navi)
